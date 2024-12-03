@@ -1,25 +1,29 @@
-name: Build and Deploy
+name: Angular Build and Deploy
 
 on:
   push:
     branches:
       - main
+
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: Install packages
-        run: npm ci
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
 
-      - name: Bundle
-        run: npm run build
+      - name: Build Angular app to prod
+        working-directory: proyecto
+        run: npm install && npm run build:prod
 
-      - name: Deploy 🚀
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
-          folder: dist
+          folder: proyecto/dist/browser
+          branch: prod  
+          token: ${{ secrets.GH_TOKEN }}
