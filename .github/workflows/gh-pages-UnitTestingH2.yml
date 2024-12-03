@@ -19,11 +19,12 @@ jobs:
 
       - name: Build Angular app to prod
         working-directory: proyecto
-        run: npm install && npm run build:prod
+        run: npm install && npm run build:prode
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@releases/v2
         with:
-          folder: proyecto/dist/index.html
-          branch: prod  
-          token: ${{ secrets.GH_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BASE_BRANCH: main
+          BRANCH: prode
+          FOLDER: proyecto/dist/
