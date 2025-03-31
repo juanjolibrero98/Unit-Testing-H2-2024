@@ -1,7 +1,7 @@
 {
     "challenges_total": 0,
     "languages_total": 47,
-    "files_total": 233,
+    "files_total": 231,
     "users_total": 175,
     "challenges_ranking": [],
     "languages_ranking": [
@@ -9,265 +9,265 @@
             "order": 1,
             "name": "services",
             "count": 22,
-            "percentage": 9.44
+            "percentage": 9.52
         },
         {
             "order": 2,
             "name": "hooks",
             "count": 14,
-            "percentage": 6.01
+            "percentage": 6.06
         },
         {
             "order": 3,
             "name": ".",
             "count": 11,
-            "percentage": 4.72
+            "percentage": 4.76
         },
         {
             "order": 4,
             "name": "logo",
             "count": 11,
-            "percentage": 4.72
+            "percentage": 4.76
         },
         {
             "order": 5,
             "name": "models",
             "count": 10,
-            "percentage": 4.29
+            "percentage": 4.33
         },
         {
             "order": 6,
             "name": "trello-auth",
             "count": 8,
-            "percentage": 3.43
+            "percentage": 3.46
         },
         {
             "order": 7,
             "name": ".git",
             "count": 7,
-            "percentage": 3.0
+            "percentage": 3.03
         },
         {
             "order": 8,
             "name": "layout",
             "count": 7,
-            "percentage": 3.0
+            "percentage": 3.03
         },
         {
             "order": 9,
             "name": "users-table",
             "count": 7,
-            "percentage": 3.0
+            "percentage": 3.03
         },
         {
             "order": 10,
             "name": "src",
             "count": 6,
-            "percentage": 2.58
+            "percentage": 2.6
         },
         {
             "order": 11,
             "name": "board-form",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 12,
             "name": "navbar",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 13,
             "name": "boards",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 14,
             "name": "button",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 15,
             "name": "card-color",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 16,
             "name": "forgot-password",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 17,
             "name": "recovery",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 18,
             "name": "register",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 19,
             "name": "login",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 20,
             "name": "footer",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 21,
             "name": "background",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 22,
             "name": "forgot-password-form",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 23,
             "name": "header",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 24,
             "name": "register-form",
             "count": 5,
-            "percentage": 2.15
+            "percentage": 2.16
         },
         {
             "order": 25,
-            "name": "origin",
+            "name": "profile",
             "count": 4,
-            "percentage": 1.72
+            "percentage": 1.73
         },
         {
             "order": 26,
-            "name": "profile",
+            "name": "environments",
             "count": 4,
-            "percentage": 1.72
+            "percentage": 1.73
         },
         {
             "order": 27,
-            "name": "environments",
-            "count": 4,
-            "percentage": 1.72
+            "name": "pack",
+            "count": 3,
+            "percentage": 1.3
         },
         {
             "order": 28,
-            "name": "pack",
+            "name": "app",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 29,
-            "name": "app",
+            "name": "utils",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 30,
-            "name": "utils",
+            "name": "interceptors",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 31,
-            "name": "interceptors",
+            "name": "board",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 32,
-            "name": "board",
+            "name": "card-dialog",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 33,
-            "name": "card-dialog",
+            "name": "board-dialog",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 34,
-            "name": "board-dialog",
+            "name": "avatar-dialog",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 35,
-            "name": "avatar-dialog",
+            "name": "login-form",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 36,
-            "name": "login-form",
+            "name": "svg",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 37,
-            "name": "svg",
+            "name": "workflows",
             "count": 3,
-            "percentage": 1.29
+            "percentage": 1.3
         },
         {
             "order": 38,
-            "name": "workflows",
-            "count": 3,
-            "percentage": 1.29
+            "name": "origin",
+            "count": 2,
+            "percentage": 0.87
         },
         {
             "order": 39,
             "name": "heads",
             "count": 2,
-            "percentage": 0.86
+            "percentage": 0.87
         },
         {
             "order": 40,
             "name": "guards",
             "count": 2,
-            "percentage": 0.86
+            "percentage": 0.87
         },
         {
             "order": 41,
             "name": "users",
             "count": 2,
-            "percentage": 0.86
+            "percentage": 0.87
         },
         {
             "order": 42,
             "name": "auth",
             "count": 2,
-            "percentage": 0.86
+            "percentage": 0.87
         },
         {
             "order": 43,
             "name": "index",
             "count": 2,
-            "percentage": 0.86
+            "percentage": 0.87
         },
         {
             "order": 44,
             "name": "recovery-form",
             "count": 2,
-            "percentage": 0.86
+            "percentage": 0.87
         },
         {
             "order": 45,
@@ -303,15 +303,15 @@
         },
         {
             "order": 3,
-            "name": "head",
-            "count": 4,
-            "languages": 3
+            "name": "pack-c264d59350800c72a81119901b993ff2ba233f3e",
+            "count": 3,
+            "languages": 1
         },
         {
             "order": 4,
-            "name": "pack-41a37269f93f6b08f8ac8fa0a646ff1053ae9cd9",
-            "count": 3,
-            "languages": 1
+            "name": "head",
+            "count": 2,
+            "languages": 2
         },
         {
             "order": 5,
